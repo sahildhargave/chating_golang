@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "@emotion/react": "^11.11.4",
+    "@emotion/styled": "^11.11.0",
+    "@mui/material": "^5.15.14",
+    "emoji-picker-react": "^4.9.2",
+    "sass": "^1.72.0"
+  },
+  "devDependencies": {
+    "daisyui": "^4.7.3"
+  }
+}
